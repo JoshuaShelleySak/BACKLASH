@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: b6f87b45e8c746246bf4023824f3adfe
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box001
+    100002: //RootNode
+    100004: Lantern
+    100006: Post base
+    100008: Post connect
+    100010: Torus001
+    100012: Torus002
+    100014: Torus003
+    100016: Torus004
+    100018: Torus005
+    100020: Torus006
+    100022: Torus007
+    100024: Torus008
+    400000: Box001
+    400002: //RootNode
+    400004: Lantern
+    400006: Post base
+    400008: Post connect
+    400010: Torus001
+    400012: Torus002
+    400014: Torus003
+    400016: Torus004
+    400018: Torus005
+    400020: Torus006
+    400022: Torus007
+    400024: Torus008
+    2100000: 'Material #2'
+    2100002: 'Material #5'
+    2100004: 'Material #6'
+    2100006: 'Material #3'
+    2300000: Box001
+    2300002: Lantern
+    2300004: Post base
+    2300006: Post connect
+    2300008: Torus001
+    2300010: Torus002
+    2300012: Torus003
+    2300014: Torus004
+    2300016: Torus005
+    2300018: Torus006
+    2300020: Torus007
+    2300022: Torus008
+    3300000: Box001
+    3300002: Lantern
+    3300004: Post base
+    3300006: Post connect
+    3300008: Torus001
+    3300010: Torus002
+    3300012: Torus003
+    3300014: Torus004
+    3300016: Torus005
+    3300018: Torus006
+    3300020: Torus007
+    3300022: Torus008
+    4300000: Box001
+    4300002: Torus001
+    4300004: Torus002
+    4300006: Torus003
+    4300008: Torus004
+    4300010: Torus005
+    4300012: Torus006
+    4300014: Torus007
+    4300016: Torus008
+    4300018: Lantern
+    4300020: Post connect
+    4300022: Post base
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

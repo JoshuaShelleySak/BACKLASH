@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b0fb6f29b4e599e46ad9ee263c39f4b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gShotgun: {fileID: 1944820419883060, guid: e2da7f64e7c46894193d3b7ebed8b12c, type: 2}
+  - gRevolver: {fileID: 1543651442042464, guid: 629d7341725357a4ca93ad994c8b5f51,
+      type: 2}
+  - gRifle: {fileID: 1428094787124602, guid: 134bba9d9bd71864ab9d9d49b6696ee5, type: 2}
+  - gMusket: {fileID: 1428094787124602, guid: 134bba9d9bd71864ab9d9d49b6696ee5, type: 2}
+  - itemBeingSpawned: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

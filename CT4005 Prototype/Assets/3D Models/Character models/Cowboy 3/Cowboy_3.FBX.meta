@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: fdd41109da56cf9498ee76a456820451
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Belt
+    100002: Belt buckle
+    100004: Boot Right
+    100006: //RootNode
+    100008: Hat
+    100010: Hat strap
+    100012: Head
+    100014: Left Arm
+    100016: Left Glove
+    100018: Plane003
+    100020: Right Arm
+    100022: Right Glove
+    100024: Shirt stripe 2
+    100026: Shirt stripes
+    100028: Shirts cuffs
+    100030: Torso
+    100032: Trousers
+    100034: Waist coat stripe 2
+    100036: Waist coat stripes
+    400000: Belt
+    400002: Belt buckle
+    400004: Boot Right
+    400006: //RootNode
+    400008: Hat
+    400010: Hat strap
+    400012: Head
+    400014: Left Arm
+    400016: Left Glove
+    400018: Plane003
+    400020: Right Arm
+    400022: Right Glove
+    400024: Shirt stripe 2
+    400026: Shirt stripes
+    400028: Shirts cuffs
+    400030: Torso
+    400032: Trousers
+    400034: Waist coat stripe 2
+    400036: Waist coat stripes
+    2100000: 'Material #34'
+    2100002: Waist Coat
+    2100004: Trousers
+    2100006: Shirt cuffs
+    2100008: Hat
+    2100010: 'Material #33'
+    2100012: 'Material #46'
+    2100014: Hat strap
+    2300000: Belt
+    2300002: Belt buckle
+    2300004: Boot Right
+    2300006: Hat
+    2300008: Hat strap
+    2300010: Head
+    2300012: Left Arm
+    2300014: Left Glove
+    2300016: Right Arm
+    2300018: Right Glove
+    2300020: Shirt stripe 2
+    2300022: Shirt stripes
+    2300024: Shirts cuffs
+    2300026: Torso
+    2300028: Trousers
+    2300030: Waist coat stripe 2
+    2300032: Waist coat stripes
+    3300000: Belt
+    3300002: Belt buckle
+    3300004: Boot Right
+    3300006: Hat
+    3300008: Hat strap
+    3300010: Head
+    3300012: Left Arm
+    3300014: Left Glove
+    3300016: Right Arm
+    3300018: Right Glove
+    3300020: Shirt stripe 2
+    3300022: Shirt stripes
+    3300024: Shirts cuffs
+    3300026: Torso
+    3300028: Trousers
+    3300030: Waist coat stripe 2
+    3300032: Waist coat stripes
+    4300000: Head
+    4300002: Boot Right
+    4300004: Trousers
+    4300006: Torso
+    4300008: Right Arm
+    4300010: Left Arm
+    4300012: Shirts cuffs
+    4300014: Belt
+    4300016: Belt buckle
+    4300018: Right Glove
+    4300020: Left Glove
+    4300022: Hat
+    4300024: Hat strap
+    4300026: Waist coat stripes
+    4300028: Shirt stripes
+    4300030: Waist coat stripe 2
+    4300032: Shirt stripe 2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
